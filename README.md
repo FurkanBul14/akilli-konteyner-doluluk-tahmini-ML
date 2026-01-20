@@ -13,8 +13,8 @@ Projede hem veri analizi hem de temel makine öğrenmesi yöntemleri birlikte ku
  veri seti farklı konteyner türlerinin çeşitli atık türleriyle ne kadar dolduğunu gösteren bilgiler içermektedir.
 veri setinde kullanılan temel sütunlar şunlardır:
 
- *Container Type: Konteynerin türünü-modelini ifade eder   
- *Recyclable fraction: Konteynerin aldığı atık türünü gösterir 
+ * Container Type: Konteynerin türünü-modelini ifade eder   
+ - Recyclable fraction: Konteynerin aldığı atık türünü gösterir 
  *FL_A: Ölçümün başındaki doluluk seviyesi
  *FL_B: Ölçümün sonundaki doluluk seviyesi
  *VS: Ölçümle ilgili sayısal bir değerdir ve makine öğrenmesi kısmında özellik (feature) olarak kullandım.
