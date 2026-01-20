@@ -16,8 +16,7 @@ Projede hem veri analizi hem de temel makine öğrenmesi yöntemleri birlikte ku
 
 ## Veri Seti
 
-Projede **Smart_Bin.csv** adlı veri seti kullanılmıştır.  
-Bu veri seti, farklı konteyner türlerinin çeşitli atık türleriyle ne kadar dolduğunu gösteren bilgiler içermektedir.
+ veri seti, farklı konteyner türlerinin çeşitli atık türleriyle ne kadar dolduğunu gösteren bilgiler içermektedir.
 
 Veri setinde kullanılan temel sütunlar şunlardır:
 
@@ -42,6 +41,10 @@ Burada amaç:
 Pivot tablosundan sonra en yüksek ortalamaya sahip kombinasyonu da ekrana yazdırdım.
 
 ![Pivot Analizi Kodu](resimler/resim2.png)
+
+# Terminal çıktısı
+
+![Terminal çıktısı](resimler/resim9.png)
 
 
 ## Makine Öğrenmesi (Ek)
