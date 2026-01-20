@@ -1,4 +1,4 @@
-# Smart Bin Projesi
+# Makine Öğrenmesi Projesi
 
 Bu projede Smart_Bin.csv veri seti kullanılarak konteynerlerin doluluk durumları incelenmiştir.
 
@@ -42,7 +42,7 @@ Pivot tablosundan sonra en yüksek ortalamaya sahip kombinasyonu da ekrana yazd�
 
 ![Pivot Analizi Kodu](resimler/resim2.png)
 
-# Terminal çıktısı
+### Terminal çıktısı
 
 ![Terminal çıktısı](resimler/resim9.png)
 
