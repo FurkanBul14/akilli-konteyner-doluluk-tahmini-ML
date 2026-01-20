@@ -78,3 +78,11 @@ Projede iki grafik oluşturdum:
 
 ### Model Performans Grafiği
 ![Model Performans Karsilastirmasi](resimler/resim6.png)
+
+
+## Sertifikalar
+
+![Sertifika 1](resimler/resim7.png)
+
+![Sertifika 2](resimler/resim8.png)
+
