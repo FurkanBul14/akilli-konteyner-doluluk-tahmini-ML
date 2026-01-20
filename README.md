@@ -1,3 +1,19 @@
+# Smart Bin Projesi
+
+Bu projede Smart_Bin.csv veri seti kullanılarak konteynerlerin doluluk durumları incelenmiştir.
+
+İlk olarak pivot analiz ile:
+- Hangi konteyner türünün
+- Hangi atık türünde
+- Ortalama olarak daha dolu olduğu
+
+görülmeye çalışılmıştır.
+
+Daha sonra makine öğrenmesi kullanılarak, konteynerlerin doluluk durumunun yüksek mi düşük mü olacağı tahmin edilmiştir.
+
+Projede hem veri analizi hem de temel makine öğrenmesi yöntemleri birlikte kullanılmıştır.
+
+
 ## Veri Seti
 
 Projede **Smart_Bin.csv** adlı veri seti kullanılmıştır.  
