@@ -36,7 +36,7 @@ Aşağıda, veri temizlemeve veri okuma  işleminin kod üzerinde nasıl yapıld
 Pivot tablo ile konteyner türü ve atık türüne göre ortalama doluluk seviyesini karşılaştırdım.
 
 Burada amaç:
-- Hangi konteyner + hangi atık türünde ortalama `FL_B` değeri daha yüksek görmek
+- Hangi konteyner + hangi atık türünde ortalama FL_B değeri daha yüksek görmek
 
 Pivot tablosundan sonra en yüksek ortalamaya sahip kombinasyonu da ekrana yazdırdım.
 
