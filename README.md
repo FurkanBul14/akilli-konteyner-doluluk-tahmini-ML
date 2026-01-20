@@ -98,6 +98,13 @@ Projede iki grafik oluşturdum:
 ### Model Performans Grafiği
 ![Model Performans Karsilastirmasi](resimler/resim6.png)
 
+## Sonuçlar
+
+- Pivot analiz ile konteyner türü ve atık türüne göre ortalama "FL_B" değerleri karşılaştırıldı ve en yüksek ortalamaya sahip kombinasyon belirlendi.
+- Makine öğrenmesi kısmında "FL_B" değeri medyana göre iki sınıfa ayrıldı (yüksek/düşük).
+- Logistic Regression, KNN ve Random Forest modelleri denenip Accuracy ve 1 Score ile karşılaştırıldı.
+- Denemeler sonucunda en iyi performans gösteren model F1 Score değerine göre seçildi.
+
 
 ## Sertifikalar
 
