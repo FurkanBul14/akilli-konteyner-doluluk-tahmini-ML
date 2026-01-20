@@ -13,11 +13,11 @@ Projede hem veri analizi hem de temel makine öğrenmesi yöntemleri birlikte ku
  veri seti farklı konteyner türlerinin çeşitli atık türleriyle ne kadar dolduğunu gösteren bilgiler içermektedir.
 veri setinde kullanılan temel sütunlar şunlardır:
 
- * Container Type: Konteynerin türünü-modelini ifade eder   
+ - Container Type: Konteynerin türünü-modelini ifade eder   
  - Recyclable fraction: Konteynerin aldığı atık türünü gösterir 
- *FL_A: Ölçümün başındaki doluluk seviyesi
- *FL_B: Ölçümün sonundaki doluluk seviyesi
- *VS: Ölçümle ilgili sayısal bir değerdir ve makine öğrenmesi kısmında özellik (feature) olarak kullandım.
+ - FL_A: Ölçümün başındaki doluluk seviyesi
+ - FL_B: Ölçümün sonundaki doluluk seviyesi
+ - VS: Ölçümle ilgili sayısal bir değerdir ve makine öğrenmesi kısmında özellik (feature) olarak kullandım.
 
 Eksik veya hatalı veriler analiz ve makine öğrenmesi aşamalarından önce veri setinden çıkarıldı.
 Aşağıda veri temizlemeve veri okuma  işleminin kod üzerinde nasıl yapıldığı gösterilmekteyim:
@@ -45,16 +45,16 @@ amaç:
 bu yüzden:
 - "FL_B" değerlerini medyana göre iki sınıfa ayırdım (median üstü = 1, altı = 0)
 
--Modele verdiğim bilgiler:
--Container Type
--Recyclable fraction
--FL_A
--VS
+- Modele verdiğim bilgiler:
+- Container Type
+- Recyclable fraction
+- FL_A
+- VS
 
--Kullanılan algoritmalar:
--Logistic Regression
--KNN
--Random Forest
+Kullanılan algoritmalar:
+- Logistic Regression
+- KNN
+- Random Forest
 
 
 ### Koddan bir parça
@@ -87,10 +87,10 @@ Projede iki grafik oluşturdum:
 
 ## Sonuçlar
 
- -Pivot analiz ile konteyner türü ve atık türüne göre ortalama "FL_B" değerleri karşılaştırıldı ve en yüksek ortalamaya sahip kombinasyon belirlendi.
- -makine öğrenmesi kullanılarak, konteynerlerin doluluk durumunun yüksek mi düşük mü olacağı tahmin ettim
- -Logistic Regression, KNN ve Random Forest modelleri denenip Accuracy ve 1 Score ile karşılaştırıldı.
- -Denemeler sonucunda en iyi performans gösteren model F1 Score değerine göre seçildi.
+ - Pivot analiz ile konteyner türü ve atık türüne göre ortalama "FL_B" değerleri karşılaştırıldı ve en yüksek ortalamaya sahip kombinasyon belirlendi.
+ - makine öğrenmesi kullanılarak, konteynerlerin doluluk durumunun yüksek mi düşük mü olacağı tahmin ettim
+ - Logistic Regression, KNN ve Random Forest modelleri denenip Accuracy ve 1 Score ile karşılaştırıldı.
+ - Denemeler sonucunda en iyi performans gösteren model F1 Score değerine göre seçildi.
 
 
 ## Sertifikalar
