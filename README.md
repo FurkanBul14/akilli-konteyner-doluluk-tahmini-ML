@@ -45,11 +45,7 @@ amaç:
 bu yüzden:
 - "FL_B" değerlerini medyana göre iki sınıfa ayırdım (median üstü = 1, altı = 0)
 
-- Modele verdiğim bilgiler:
-- Container Type
-- Recyclable fraction
-- FL_A
-- VS
+  Modele verdiğim bilgiler: Container Type, Recyclable fraction, FL_A, VS
 
 Kullanılan algoritmalar:
 - Logistic Regression
